@@ -1,27 +1,17 @@
 body {
     background-image: url(../images/background.png);
 }
+
 nav {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     border-bottom: 2px solid #cccccc;
-   
+ 
 }
 
-#navbar-brand {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bolder;
-    font-size: xx-large;
-    color: white;
-    background: #4aaaa5;
-    padding: 20px;
-    margin: 0px;
-    
-}
-
-.col-sm-9 {
-    border: 1px solid #dddddd;
-}
+a {
+    color:white; 
+ }
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -49,13 +39,20 @@ p {
    
 }
 
+
+footer {
+    font-size: small;
+    background: #666666;
+    border-top: 6px solid #4aaaa5;
+}
+
+.col-sm-9 {
+    border: 1px solid #dddddd;
+}
+
 .img, .float-left, .mr-4 {
     position: relative;
     border: 1px solid #cccccc;
-}
-
-a {
-   color:white; 
 }
 
 .text-block {
@@ -69,10 +66,15 @@ a {
     font-size: small;
     padding-top: 5px;
     padding-bottom: 5px;;
-  }
-
-footer {
-    font-size: small;
-    background: #666666;
-    border-top: 6px solid #4aaaa5;
+}
+  
+#navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: white;
+    background: #4aaaa5;
+    padding: 20px;
+    margin: 0px;
+    
 }
