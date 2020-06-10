@@ -88,7 +88,13 @@ footer {
 .navbar.navbar-expand-lg.navbar-light.bg-white {
     padding: 0;
 }
-  
+
+/* seting the color for the submit button on the contact page */
+.btn.btn-primary {
+    background: #4aaaa5;
+    border-color: #4aaaa5;
+}
+
 /* text parameters in navbar-brand */
 #navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
