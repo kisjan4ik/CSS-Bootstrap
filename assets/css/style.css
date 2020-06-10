@@ -1,7 +1,9 @@
+/* setting background image for the body */
 body {
     background-image: url(../images/background.png);
 }
 
+/* setting font color and font-family for the navand the border-bottom */
 nav {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
@@ -9,15 +11,18 @@ nav {
  
 }
 
+/* setting the max width of the container */
 .container {
 max-width: 960px;
 padding-left: 0;
 }
 
+/* setting the color of the links on the pictures for the portfolio page */
 a {
     color:white; 
  }
 
+ /* setting the header parameters */
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
@@ -26,40 +31,46 @@ h1 {
 
 }
 
+/* horisontal line between the heading and the main content */
 hr {
     height: 1.5px;
     color: #dddddd;
     background-color: #dddddd;
 }
 
+/* setting images height and width */
 img {
     height: 170px;
     width: 245px;
     
 }
 
+/* parameters of the text on in the main container */
 p {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777; 
    
 }
 
-
+/* footer parameters */
 footer {
     font-size: small;
     background: #666666;
     border-top: 6px solid #4aaaa5;
 }
 
+/* column border */
 .col-sm-9 {
     border: 1px solid #dddddd;
 }
 
+/* images on portfolio page */
 .img, .float-left, .mr-4 {
     position: relative;
     border: 1px solid #cccccc;
 }
 
+/* parameters of the taxt-blocks on the profile pictures */
 .text-block {
     position: absolute;
     bottom: 20px;
@@ -72,10 +83,13 @@ footer {
     padding-top: 5px;
     padding-bottom: 5px;;
 }
+
+/* setting the position of navbar-brand to have the same left border on the page as main container*/
 .navbar.navbar-expand-lg.navbar-light.bg-white {
     padding: 0;
 }
   
+/* text parameters in navbar-brand */
 #navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
