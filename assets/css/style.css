@@ -9,6 +9,11 @@ nav {
  
 }
 
+.container {
+max-width: 960px;
+padding-left: 0;
+}
+
 a {
     color:white; 
  }
@@ -66,6 +71,9 @@ footer {
     font-size: small;
     padding-top: 5px;
     padding-bottom: 5px;;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-white {
+    padding: 0;
 }
   
 #navbar-brand {
