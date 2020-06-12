@@ -25,6 +25,25 @@ In order for the webpages to work and respond correctly I linked Bootstrap style
 
 This project is good to use as a portfolio template that can be developed and completed with information and effects in future. 
 
+Here are the screenshots of the pages:
+
+# About me
+
+
+
+# Portfoilio
+
+
+
+# Contact page
+
+
+
+
+
+Links to the repository on Github.com and to thesite published  at Github Host are the following:
+ https://github.com/kisjan4ik/CSS-Bootstrap
+ https://kisjan4ik.github.io/CSS-Bootstrap/
 
 © Copyright 2020
 
