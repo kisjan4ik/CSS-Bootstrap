@@ -28,15 +28,17 @@ This project is good to use as a portfolio template that can be developed and co
 Here are the screenshots of the pages:
 
 # About me
-
-
+![Main page](/images/Screenshot_Readme_1.PNG)
+Format: ![Alt Text](url)
 
 # Portfoilio
-
+![Portfolio page](/images/Screenshot_Readme_2.PNG)
+Format: ![Alt Text](url)
 
 
 # Contact page
-
+![Contact page](/images/Screenshot_Readme_3.PNG)
+Format: ![Alt Text](url)
 
 
 
