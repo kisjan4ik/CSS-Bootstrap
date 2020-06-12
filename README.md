@@ -29,22 +29,23 @@ Here are the screenshots of the pages:
 
 # About me
 ![Main page](assets/images/Screenshot_Readme_1.PNG)
-Format: ![Alt Text](url)
+
 
 # Portfoilio
 ![Portfolio page](assets/images/Screenshot_Readme_2.PNG)
-Format: ![Alt Text](url)
+
 
 
 # Contact page
 ![Contact page](assets/images/Screenshot_Readme_3.PNG)
-Format: ![Alt Text](url)
+
 
 
 
 
 Links to the repository on Github.com and to thesite published  at Github Host are the following:
  https://github.com/kisjan4ik/CSS-Bootstrap
+
  https://kisjan4ik.github.io/CSS-Bootstrap/
 
 © Copyright 2020
