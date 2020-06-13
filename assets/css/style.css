@@ -112,3 +112,7 @@ footer {
     width: 300px;
     height: 215px;
 }
+
+#exampleFormControlTextarea1 {
+    height: 150px;
+}
