@@ -47,7 +47,7 @@ Links to the repository on Github.com and to thesite published  at Github Host a
 
  https://github.com/kisjan4ik/CSS-Bootstrap
 
- https://kisjan4ik.github.io/CSS-Bootstrap/
+ https://kisjan4ik.github.io/Responsive-portfolio/
 
 © Copyright 2020
 

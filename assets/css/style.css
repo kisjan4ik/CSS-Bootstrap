@@ -1,10 +1,11 @@
 /* setting background image for the body */
 body {
-    background-image: url(../images/background.png);
+    background-image: url(../images/background_new.jpg);
 }
 
 /* setting font color and font-family for the navand the border-bottom */
 nav {
+    font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     border-bottom: 2px solid #cccccc;
@@ -61,6 +62,7 @@ footer {
 
 /* column border */
 .col-sm-9 {
+    background: #f7f8d2;
     border: 1px solid #dddddd;
 }
 
@@ -100,7 +102,7 @@ footer {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     font-size: xx-large;
-    color: white;
+    color: #f7f8d2;
     background: #4aaaa5;
     padding: 20px;
     margin: 0px;
@@ -109,10 +111,15 @@ footer {
 
 /* adjusted picture sizes on the main page */
 #main {
-    width: 300px;
+    width: 290px;
     height: 215px;
 }
 
 #exampleFormControlTextarea1 {
     height: 150px;
+}
+
+#navig{
+    padding: 0px;
+    background: #f7f8d2;
 }
