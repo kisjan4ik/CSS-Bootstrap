@@ -32,6 +32,25 @@ h1 {
 
 }
 
+button, 
+button:focus {
+    outline: none;
+    box-shadow: none;
+    width:200px;
+    padding-top: 0px;
+    background: none;
+    border: none;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-weight: bolder;
+    float: right;
+    position: absolute;
+    top: 20px;
+    right: 25px;
+
+}
+
 /* horisontal line between the heading and the main content */
 hr {
     height: 1.5px;
@@ -105,7 +124,7 @@ footer {
 
 .col-sm--9 {
     background: url(../images/Wallpaper03[2].jpg);
-    opacity: 0.9;
+    opacity: 0.87;
 }
 
 
