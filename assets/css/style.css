@@ -18,10 +18,9 @@ max-width: 960px;
 padding-left: 0;
 }
 
-/* setting the color of the links on the pictures for the portfolio page */
 a {
-    color:white; 
- }
+    color:#1b746f;
+}
 
  /* setting the header parameters */
 h1 {
@@ -32,8 +31,8 @@ h1 {
 
 }
 
-button, 
-button:focus {
+#buttonn, 
+#buttonn:focus {
     outline: none;
     box-shadow: none;
     width:200px;
@@ -46,8 +45,8 @@ button:focus {
     font-weight: bolder;
     float: right;
     position: absolute;
-    top: 20px;
-    right: 25px;
+    top: 23px;
+    right: 30px;
 
 }
 
@@ -78,6 +77,11 @@ footer {
     background: #666666;
     border-top: 6px solid #4aaaa5;
 }
+
+/* setting the color of the links on the pictures for the portfolio page */
+.h4 {
+    color:white; 
+ }
 
 /* column border */
 .col-sm-9 {
@@ -160,4 +164,10 @@ footer {
     background: url(../images/Wallpaper03[2].jpg);
     opacity: 0.97;
 
+}
+
+#contactinfo {
+    margin-left: 60%;
+    font-weight: 600;
+    color: #1b746f;
 }
