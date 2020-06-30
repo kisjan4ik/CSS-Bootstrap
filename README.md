@@ -45,7 +45,7 @@ Here are the screenshots of the pages:
 
 Links to the repository on Github.com and to thesite published  at Github Host are the following:
 
- https://github.com/kisjan4ik/CSS-Bootstrap
+ https://github.com/kisjan4ik/Responsive-portfolio
 
  https://kisjan4ik.github.io/Responsive-portfolio/
 
