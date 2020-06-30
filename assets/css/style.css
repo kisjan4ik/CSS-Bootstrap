@@ -12,12 +12,6 @@ nav {
  
 }
 
-/* setting the max width of the container */
-.container {
-max-width: 960px;
-padding-left: 0;
-}
-
 a {
     color:#1b746f;
 }
@@ -28,25 +22,6 @@ h1 {
     color: #4aaaa5;
     font-weight: bolder;
     font-size: xx-large;   
-
-}
-
-#buttonn, 
-#buttonn:focus {
-    outline: none;
-    box-shadow: none;
-    width:200px;
-    padding-top: 0px;
-    background: none;
-    border: none;
-    font-size: 25px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #4aaaa5;
-    font-weight: bolder;
-    float: right;
-    position: absolute;
-    top: 23px;
-    right: 30px;
 
 }
 
@@ -77,6 +52,16 @@ footer {
     background: #666666;
     border-top: 6px solid #4aaaa5;
 }
+
+label {
+color:#1b746f;
+}
+
+/* setting the max width of the container */
+.container {
+    max-width: 960px;
+    padding-left: 0;
+    }
 
 /* setting the color of the links on the pictures for the portfolio page */
 .h4 {
@@ -131,6 +116,24 @@ footer {
     opacity: 0.87;
 }
 
+#buttonn, 
+#buttonn:focus {
+    outline: none;
+    box-shadow: none;
+    width:200px;
+    padding-top: 0px;
+    background: none;
+    border: none;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-weight: bolder;
+    float: right;
+    position: absolute;
+    top: 23px;
+    right: 30px;
+
+}
 
 /* text parameters in navbar-brand */
 #navbar-brand {
