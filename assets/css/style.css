@@ -130,10 +130,31 @@ color:#1b746f;
     font-weight: bolder;
     float: right;
     position: absolute;
-    top: 23px;
+    top: 20px;
     right: 30px;
 
 }
+
+#buuton, 
+#buuton:focus {
+    outline: none;
+    box-shadow: none;
+    width:170px;
+    padding: 0px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-weight: bolder;
+    float: right;
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    padding-bottom: 10px;
+
+}
+
 
 /* text parameters in navbar-brand */
 #navbar-brand {
