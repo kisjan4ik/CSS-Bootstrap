@@ -41,6 +41,7 @@ hr {
 img {
     height: 170px;
     width: 245px;
+    border-radius: 15px;
     
 }
 
@@ -79,6 +80,7 @@ color:#544c74;
     background: #B6A19E;
     opacity: 0.9;
     border: 1px solid #FBA100;
+    border-radius: 15px;
 }
 
 /* images on portfolio page */
@@ -123,6 +125,8 @@ color:#544c74;
     background: #B6A19E;
     opacity: 0.9;
     border: 1px solid #FBA100;
+    border-radius: 15px;
+    
 }
 
 #buttonn, 
@@ -175,6 +179,7 @@ color:#544c74;
     opacity: 0.9;
     padding: 20px;
     margin: 0px;
+    border-radius: 15px;
     
 }
 
@@ -197,6 +202,7 @@ color:#544c74;
 #yellow {
     background:#B6A19E;
     opacity: 0.97;
+    border-radius: 15px;
 
 }
 
