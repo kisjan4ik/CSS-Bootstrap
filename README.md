@@ -25,29 +25,32 @@ In order for the webpages to work and respond correctly I linked Bootstrap style
 
 This project is good to use as a portfolio template that can be developed and completed with information and effects in future. 
 
+
 Here are the screenshots of the pages:
 
 ## About me
-![Main page](assets/images/Screenshot_Readme_1.PNG)
+![Portfolio_1](https://user-images.githubusercontent.com/63433561/86191807-01acd500-bb16-11ea-98a2-934d20978889.PNG)
+
+
+## Contact info and Resume
+![Portfolio_2](https://user-images.githubusercontent.com/63433561/86191810-02de0200-bb16-11ea-88f4-ea5271ace12a.PNG)
 
 
 ## Portfoilio
-![Portfolio page](assets/images/Screenshot_Readme_2.PNG)
-
+![Portfolio_3](https://user-images.githubusercontent.com/63433561/86191811-03769880-bb16-11ea-8993-336cf298dd5b.PNG)
 
 
 ## Contact page
-![Contact page](assets/images/Screenshot_Readme_3.PNG)
-
+![Portfolio_4](https://user-images.githubusercontent.com/63433561/86191813-040f2f00-bb16-11ea-8f7b-049ebc0d824c.PNG)
 
 
 
 
 Links to the repository on Github.com and to thesite published  at Github Host are the following:
 
- https://github.com/kisjan4ik/Responsive-portfolio
+ https://github.com/kisjan4ik/Portfolio
 
- https://kisjan4ik.github.io/Responsive-portfolio/
+ https://kisjan4ik.github.io/Portfolio/
 
 © Copyright 2020
 
