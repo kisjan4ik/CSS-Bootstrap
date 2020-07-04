@@ -19,6 +19,7 @@ a:focus,
 a:active,
 a:hover {
     color:#544c74;
+    text-decoration-line: underline;
 }
 
  /* setting the header parameters */
@@ -137,37 +138,17 @@ color:#544c74;
     padding-top: 0px;
     background: none;
     border: none;
-    font-size: 25px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: underline;
     color: #6C648B;
-    font-weight: bolder;
+    font-weight: bold;
     float: right;
     position: absolute;
-    top: 15px;
-    right: 30px;
+    top: 25px;
+    right: 10px;
 
 }
-
-#buuton, 
-#buuton:focus {
-    outline: none;
-    box-shadow: none;
-    width:170px;
-    padding: 0px;
-    background: none;
-    border: none;
-    font-size: 18px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #6C648B;
-    font-weight: bolder;
-    float: right;
-    position: absolute;
-    top: 40px;
-    right: 0px;
-    padding-bottom: 10px;
-
-}
-
 
 /* text parameters in navbar-brand */
 #navbar-brand {
